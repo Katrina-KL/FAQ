@@ -66,7 +66,7 @@ nohup ./oula-pool-prover --pool wss://aleo.oula.network:6666 --account account -
 * [ ] 替換設備名`--worker-name`：礦工名稱
 
 {% hint style="warning" %}
-子賬戶和礦工名稱可自訂義，需滿足全域唯一性！&#x20;
+子賬戶和礦工名稱可自定義，需滿足全域唯一性！&#x20;
 
 建議使用2-15個小寫字母、數字或其組合，且不能以數字開頭。
 {% endhint %}
