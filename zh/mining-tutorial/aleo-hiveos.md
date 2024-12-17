@@ -117,13 +117,11 @@ nvidia-driver-update
 
     **挖礦軟體名稱**: `oulapool`
 
-    **安裝鏈接**: `https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-vX.X.tar.gz（根據`[`最新版本號`](https://github.com/oula-network/aleo/releases)`更新鏈接地址，例如v1.15）`
-
-    **加密算法**: `aleo`
-
-    **錢包與礦機模板**: `%WAL%.%WORKER_NAME%`
-
-    **礦池地址**: `wss://aleo.oula.network:6666`
+    **安裝鏈接**: `https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-vX.X.tar.gz`\
+    （據根[最新版本號](https://github.com/oula-network/aleo/releases)更新鏈接地址，例如v1.15）
+* **加密算法**: `aleo`
+* **錢包與礦機模板**: `%WAL%.%WORKER_NAME%`
+* **礦池地址**: `wss://aleo.oula.network:6666`
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
