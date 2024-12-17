@@ -113,7 +113,7 @@ If you encounter any issues during the setup or use of HiveOS, or if you have ot
 * Click the "<mark style="color:blue;">**Setup Miner Config**</mark>" button, enter the following parameters and Click the "<mark style="color:blue;">**Apply Changes**</mark>" button to save the configurations.
   * Miner Name: `oulapool`
   * Installation URL: `https://oula-hiveos.oss-ap-southeast-1.aliyuncs.com/oulapool-vX.X.tar.gz`\
-    `(`Update the link address according to [the latest version number](https://app.gitbook.com/s/yseWjqJcypCcEst0oC22/), e.g., v1.15.`)`
+    (Update the link address according to [the latest version number](https://app.gitbook.com/s/yseWjqJcypCcEst0oC22/), e.g., v1.15.)
   * Hash algorithm: `aleo`
   * Wallet and worker template: `%WAL%.%WORKER_NAME%`
   * Pool URL: `wss://aleo.oula.network:6666`
