@@ -107,6 +107,12 @@ layout:
 * 點擊「<mark style="color:blue;">**創建飛行表**</mark>」按鈕，飛行表添加完成
 * 將添加的礦機應用于已創建的飛行表
 
+{% hint style="success" %}
+若在<mark style="color:red;">`miner.log`</mark>中見到以下相關訊息，則表示程序已成功啟動。
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ### 礦機監控及產出查看
 
 設備穩定運行並提交數據後，在用戶面板→礦池市場→[**礦工管理**](http://192.168.1.51/zh/pool/manager?tab=miner)和[**產出/支付**](http://192.168.1.51/zh/pool/manager?tab=output)模組下，切換對應的子賬戶即可檢視礦工運行狀態、產出詳情及支付詳情。

@@ -131,7 +131,7 @@ nvidia-driver-update
 若在<mark style="color:red;">`miner.log`</mark>中見到相關訊息，則表示程序已成功啟動。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 礦機監控及產出查看
 
