@@ -32,7 +32,7 @@ Please stay updated with [<mark style="color:blue;">**OULA's official website**<
     * GPU Image Version: <mark style="color:red;">**HiveOS-0.6-227-stable**</mark>&#x20;
     * Distro Base: <mark style="color:red;">**Ubuntu 20.04.6 LTS**</mark>
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Note:** Do not use the firmware online upgrade feature. Please reinstall the new firmware and ensure that the system version is Ubuntu 20.04.
@@ -121,7 +121,7 @@ If you encounter any issues during the setup or use of HiveOS, or if you have ot
 If you see relevant messages in <mark style="color:red;">`miner.log`</mark>, the program has started successfully.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Monitoring and Yield Viewing**
 
