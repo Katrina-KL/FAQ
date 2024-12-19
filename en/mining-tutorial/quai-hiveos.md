@@ -27,37 +27,17 @@ Please stay updated with [<mark style="color:blue;">**OULA's official website**<
 
 ### **Environment Setup**
 
-*   Download and install the latest version of [HiveOS](https://hiveon.com/install/).&#x20;
+*   Download and install the latest version of [Hive OS Image](https://hiveon.com/install/).&#x20;
 
-    * GPU Image Version: <mark style="color:red;">**HiveOS-0.6-227-stable**</mark>&#x20;
-    * Distro Base: <mark style="color:red;">**Ubuntu 20.04.6 LTS**</mark>
+    * Image Version: <mark style="color:yellow;">HiveOS-0.6-227-stable</mark>&#x20;
+    * Distro Base: <mark style="color:yellow;">Ubuntu 20.04.6 LTS</mark>
+    * Nvidia driver: <mark style="color:yellow;">v535.171.04</mark>
 
     <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Note:** Do not use the firmware online upgrade feature. Please reinstall the new firmware and ensure that the system version is Ubuntu 20.04.
 {% endhint %}
-
-* Upgrade the GCC and G++ compilers with the command:
-
-<pre class="language-sh"><code class="lang-sh">apt install software-properties-common
-<strong>add-apt-repository ppa:ubuntu-toolchain-r/test
-</strong>apt update
-apt install gcc-11 g++-11
-</code></pre>
-
-* Set the priority for GCC and G++ with the command:
-
-```sh
-update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-11 10
-update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-11 10
-```
-
-* upgrade the NVIDIA driver with the command:
-
-```
-nvidia-driver-update
-```
 
 {% hint style="info" %}
 If you encounter any issues during the setup or use of HiveOS, or if you have other configuration-related questions, we recommend checking out the [HiveOS Official Guide](https://hiveon.com/knowledge-base/guides/) for detailed instructions and support. The guide covers solutions for both beginners and advanced users, helping you manage your mining environment more effectively. 📘

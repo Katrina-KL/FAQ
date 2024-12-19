@@ -33,12 +33,12 @@ Please stay updated with [<mark style="color:blue;">**OULA's official website**<
 
 ### **Environment Setup**
 
-*   Download and install the latest version of [HiveOS](https://hiveon.com/install/).&#x20;
+* Download and install the latest version of [Hive OS Image](https://hiveon.com/install/).&#x20;
+  * Image Version: <mark style="color:yellow;">HiveOS-0.6-227-stable</mark>&#x20;
+  * Distro Base: <mark style="color:yellow;">Ubuntu 20.04.6 LTS</mark>
+  * Nvidia driver: <mark style="color:yellow;">v535.171.04</mark>
 
-    * GPU Image Version: <mark style="color:red;">**HiveOS-0.6-227-stable**</mark>&#x20;
-    * Distro Base: <mark style="color:red;">**Ubuntu 20.04.6 LTS**</mark>
-
-    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Note:** Do not use the firmware online upgrade feature. Please reinstall the new firmware and ensure that the system version is Ubuntu 20.04.

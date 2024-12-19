@@ -29,9 +29,9 @@ Please stay updated with [<mark style="color:blue;">**OULA's official website**<
 
 ### **Environment Setup**
 
-* **Operating Systems**: <mark style="color:red;">**Ubuntu 22.04 (GCC 11.4)**</mark>
-* **NVIDIA Driver Version:&#x20;**<mark style="color:red;">**545 or higher**</mark>
-* **Software Clients:** [**oula-quai-miner**](https://github.com/oula-network/quai/releases)
+* Operating Systems: <mark style="color:yellow;">Ubuntu 22.04</mark>
+* NVIDIA Driver Version: <mark style="color:yellow;">535 or higher</mark>
+* Software Clients: [oula-quai-miner](https://github.com/oula-network/quai/releases)
 
 ### **Account Setup**
 
