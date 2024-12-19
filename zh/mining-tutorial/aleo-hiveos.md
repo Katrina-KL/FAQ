@@ -35,10 +35,11 @@ layout:
 
 ### 環境準備
 
-*   下載並安裝最新版本的[**HiveOS固件**](https://hiveon.com/zh/install/)
+*   下載並安裝最新版本的[**HiveOS鏡像**](https://hiveon.com/zh/install/)
 
-    * [ ] **GPU镜像版本**: <mark style="color:red;">**HiveOS-0.6-227-stable**</mark>
-    * [ ] **基礎系統**: <mark style="color:red;">**Ubuntu 20.04.6 LTS**</mark>
+    * [ ] Hive OS镜像版本: <mark style="color:yellow;">HiveOS-0.6-227-stable</mark>
+    * [ ] 基礎系統: <mark style="color:yellow;">Ubuntu 20.04.6 LTS</mark>
+    * [ ] 英偉達驅動: <mark style="color:yellow;">v535.171.04</mark>
 
 
 

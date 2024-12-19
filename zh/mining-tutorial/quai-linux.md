@@ -23,9 +23,9 @@ layout:
 
 ### 環境準備
 
-* **操作系統：**<mark style="color:red;">**Ubuntu 22.04 (GCC 11.4)**</mark>
-* **NVIDIA驱动版本：**<mark style="color:red;">**545以上**</mark>
-* **軟體客戶端：**[**oula-quai-miner**](https://github.com/oula-network/quai/releases)
+* 操作系統：<mark style="color:yellow;">Ubuntu 22.04 (GCC 11.4)</mark>
+* NVIDIA驱动版本：<mark style="color:yellow;">535以上</mark>
+* 軟體客戶端：[oula-quai-miner](https://github.com/oula-network/quai/releases)
 
 {% hint style="info" %}
 請隨時關注[**Oula官方網站**](https://oula.network/zh)公告，並更新使用最新版本的軟體客戶端，以獲得更優質的技術服務和更高的 Token 產出。

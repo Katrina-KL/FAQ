@@ -29,10 +29,11 @@ layout:
 
 ### 環境準備
 
-*   下載並安裝最新版本的[**HiveOS固件**](https://hiveon.com/zh/install/)
+*   下載並安裝最新版本的[**HiveOS鏡像**](https://hiveon.com/zh/install/)
 
-    * [ ] **GPU镜像版本**: <mark style="color:red;">**HiveOS-0.6-227-stable**</mark>
-    * [ ] **基礎系統**: <mark style="color:red;">**Ubuntu 20.04.6 LTS**</mark>
+    * [ ] Hive OS镜像版本: <mark style="color:yellow;">HiveOS-0.6-227-stable</mark>
+    * [ ] 基礎系統: <mark style="color:yellow;">Ubuntu 20.04.6 LTS</mark>
+    * [ ] 英偉達驅動: <mark style="color:yellow;">v535.171.04</mark>
 
 
 
@@ -41,27 +42,6 @@ layout:
 {% hint style="danger" %}
 **注意：**&#x8ACB;勿使用固件在線升級功能，需重新安裝新固件並確保系統版本為 Ubuntu 20.04。
 {% endhint %}
-
-* 執行GCC 與 G++ 編譯器升級指令
-
-<pre class="language-sh"><code class="lang-sh">apt install software-properties-common
-<strong>add-apt-repository ppa:ubuntu-toolchain-r/test
-</strong>apt update
-apt install gcc-11 g++-11
-</code></pre>
-
-* 執行 GCC 與 G++ 優先級設定指令
-
-```bash
-update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-11 10
-update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-11 10
-```
-
-* 執行NVIDIA 驅動程式升級指令
-
-```shell
-nvidia-driver-update
-```
 
 {% hint style="info" %}
 如果您在設置或使用HiveOS的過程中遇到任何問題，或者有其他配置相關的疑問，我們建議您參考HiveOS的[官方指南](https://hiveon.com/knowledge-base/guides/)來獲取詳細的說明和幫助。官方指南涵蓋了從初學者到高階用戶的多種解決方案，幫助您更好地管理您的挖礦環境。📘
@@ -128,7 +108,7 @@ nvidia-driver-update
 * 將添加的礦機應用于已創建的飛行表
 
 {% hint style="success" %}
-若在<mark style="color:red;">`miner.log`</mark>中見到相關訊息，則表示程序已成功啟動。
+若在<mark style="color:red;">`miner.log`</mark>中見到以下相關訊息，則表示程序已成功啟動。
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
