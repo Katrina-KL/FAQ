@@ -46,12 +46,12 @@ If you encounter any issues during the setup or use of HiveOS, or if you have ot
 ### **Account Setup**
 
 * Register for an [**Oula Account**](https://oula.network/en/register) and setup the [**Sub-Account**](https://oula.network/en/pool/manager?tab=subAccount).
-* Use the default Aleo Sub-Account name or create a new one as the wallet address.&#x20;
+* Create a new one as the wallet address.&#x20;
 
 {% hint style="warning" %}
 **Sub-account and miner names can be customized but must be globally unique!**&#x20;
 
-**It is recommended to use 2-15 lowercase letters, numbers, or a combination, and the name cannot start with a number.**
+**It ony supports 2-15 lowercase letters, numbers, or a combination.**
 {% endhint %}
 
 ### &#x20;Wallet Creation

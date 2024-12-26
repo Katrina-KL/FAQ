@@ -40,7 +40,7 @@ Please stay updated with [<mark style="color:blue;">**OULA's official website**<
 ### **Account Setup**
 
 * Register for an [**Oula Account**](https://oula.network/en/register) and setup the [**Sub-Account**](https://oula.network/en/pool/manager?tab=subAccount).
-* Use the default Aleo Sub-Account name or the created one to start the mining software.&#x20;
+* Use the default Sub-Account name or the created one to start the mining software.&#x20;
 
 {% hint style="info" %}
 After running the software client, daily output will be automatically accumulated to the corresponding sub-account. Once the balance reaches the minimum payout threshold, the platform will automatically pay out to the bound withdrawal address daily.
