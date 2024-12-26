@@ -51,7 +51,7 @@ If you encounter any issues during the setup or use of HiveOS, or if you have ot
 ### **Account Setup**
 
 * Register for an [**Oula Account**](https://oula.network/en/register) and setup the [**Sub-Account**](https://oula.network/en/pool/manager?tab=subAccount).
-* Create a new one as the wallet address.&#x20;
+* Use a sub-account name <mark style="color:red;">without special characters</mark> as the wallet address.
 
 {% hint style="warning" %}
 **Sub-account and miner names can be customized but must be globally unique!**&#x20;
