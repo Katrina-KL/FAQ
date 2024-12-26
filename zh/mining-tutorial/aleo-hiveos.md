@@ -55,12 +55,12 @@ layout:
 
 ### 帳號設立
 
-* 須通過完成 [**OULA帳號註冊**](https://oula.network/zh/register)，在用戶面板→礦池市場→[**子賬戶管理**](https://oula.network/zh/pool/manager?tab=subAccount)模組下，使用 Aleo 對應的預設或創建新的子賬戶名作為錢包地址。
+* 須通過完成 [**OULA帳號註冊**](https://oula.network/zh/register)，在用戶面板→礦池市場→[**子賬戶管理**](https://oula.network/zh/pool/manager?tab=subAccount)模組下，使用新創建的子賬戶名作為錢包地址。
 
 {% hint style="warning" %}
 子賬戶和礦工名稱可自訂義，需滿足全域唯一性！&#x20;
 
-建議使用2-15個小寫字母、數字或其組合，且不能以數字開頭。
+僅支持2-15個小寫字母、數字或其組合，不支持特殊符號。
 {% endhint %}
 
 ### &#x20;錢包創建
