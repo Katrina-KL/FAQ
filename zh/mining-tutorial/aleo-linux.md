@@ -39,7 +39,7 @@ layout:
 
 ### 帳號設立
 
-* 須通過完成 [**OULA帳號註冊**](https://oula.network/zh/register)，在用戶面板→礦池市場→[**子賬戶管理**](https://oula.network/zh/pool/manager?tab=subAccount)模組下，使用 Aleo 對應的預設或新建立的子賬戶名啟動軟體。
+* 須通過完成 [**OULA帳號註冊**](https://oula.network/zh/register)，在用戶面板→礦池市場→[**子賬戶管理**](https://oula.network/zh/pool/manager?tab=subAccount)模組下，使用預設或新建立的子賬戶名啟動軟體。
 * 運行軟體客戶端後，每日的產出將自動累計至對應的子賬戶中。餘額達到最低起付金額後，平台將每日自動支付至綁定的提現地址。
 
 ### 程序運行
