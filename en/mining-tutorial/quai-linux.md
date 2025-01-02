@@ -57,7 +57,7 @@ chmod +x oula-quai-miner
 
 {% code overflow="wrap" %}
 ```bash
-nohup ./oula-quai-miner -U -P stratum://quai.oula.network:3333 --account=<OULA_ACCOUNT> --worker-name=<WORKER_NAME> > miner.log 2>&1 &
+nohup ./oula-quai-miner -U -P stratum://quai.oula.network:3333 --account=SubAccount --worker-name=Worker_Name > miner.log 2>&1 &
 ```
 {% endcode %}
 

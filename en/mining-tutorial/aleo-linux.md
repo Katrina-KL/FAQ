@@ -61,7 +61,7 @@ chmod +x oula-pool-prover
 
 {% code overflow="wrap" %}
 ```bash
-nohup ./oula-pool-prover --pool wss://aleo.oula.network:6666 --account account --worker-name worker_name > prover.log 2>&1 &
+nohup ./oula-pool-prover --pool wss://aleo.oula.network:6666 --account Sub-Account --worker-name Worker_Name > prover.log 2>&1 &
 ```
 {% endcode %}
 
