@@ -91,17 +91,19 @@ If you encounter any issues during the setup or use of HiveOS, or if you have ot
       (Update the link address according to [the latest version number](https://app.gitbook.com/s/yseWjqJcypCcEst0oC22/), e.g., v1.0.0)
     * Hash algorithm: `progpow-quai`
     * Wallet and worker template: `%WAL%.%WORKER_NAME%`
-    * Pool URL: `stratum://quai.oula.network:3333`
+    * Pool URL: `stratums://quai.oula.network:3333`\
+
 
     <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 * Click the "Create Flight Sheet" button to complete the flight sheet setup.
 * Apply the added miners to the created flight sheet.
 
 {% hint style="success" %}
-If you see relevant messages in <mark style="color:red;">`miner.log`</mark>, the program has started successfully.
+If you see relevant messages in <mark style="color:red;">`miner.log`</mark>, the program has started successfully.\
+
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ### **Monitoring and Yield Viewing**
 
