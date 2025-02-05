@@ -31,7 +31,7 @@ Please stay updated with [<mark style="color:blue;">**OULA's official website**<
 
 * Operating Systems: <mark style="color:yellow;">Ubuntu 22.04</mark>
 * NVIDIA Driver Version: <mark style="color:yellow;">535 or higher</mark>
-* Software Clients: [oula-quai-miner](https://github.com/oula-network/quai/releases)
+* Software Clients: [oula-gpu-miner](https://github.com/oula-network/quai/releases)
 
 ### **Account Setup**
 
@@ -46,18 +46,18 @@ After running the software client, daily output will be automatically accumulate
 
 #### **Oula Pool Prover**
 
-* Download the [**oula-quai-miner**](https://github.com/oula-network/quai/releases) on Ubuntu systems.
+* Download the [<mark style="color:red;">**`oula-gpu-miner`**</mark>](https://github.com/oula-network/quai/releases) on Ubuntu systems.
 * Grant permission with the command:
 
 ```sh
-chmod +x oula-quai-miner
+chmod +x oula-gpu-miner
 ```
 
 * Set execution permission with the command:
 
 {% code overflow="wrap" %}
 ```bash
-nohup ./oula-quai-miner -U -P stratums://quai.oula.network:3333 --account=SubAccount --worker-name=Worker_Name > miner.log 2>&1 &
+nohup ./oula-gpu-miner -U -P stratums://quai.oula.network:3333 --account=SubAccount --worker-name=Worker_Name > miner.log 2>&1 &
 ```
 {% endcode %}
 
@@ -88,7 +88,7 @@ If you see `ProgPow kernel` relevant messages in <mark style="color:red;">`miner
 * To stop the program, use:
 
 ```bash
-killall oula-quai-miner
+killall oula-gpu-miner
 # Force stop
 ```
 
