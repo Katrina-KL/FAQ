@@ -93,25 +93,23 @@ layout:
 
     **挖礦軟體名稱**: `oula-quai-miner`
 
-    **安裝鏈接**: [`https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-vx.y.z.tar.gz`](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-vx.y.z.tar.gz)`（根據`[`最新版本號`](https://github.com/oula-network/quai/releases)`更新鏈接地址，例如v1.0.0）`
+    **安裝鏈接**: [`https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-vx.y.z.tar.gz`](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-vx.y.z.tar.gz)\
+    `（根據`[`最新版本號`](https://github.com/oula-network/quai/releases)`更新鏈接地址，例如v1.0.0）`\
+    **加密算法**: `progpow-quai`\
+    **錢包與礦機模板**: `%WAL%.%WORKER_NAME%`\
+    **礦池地址**: `stratums://quai.oula.network:3333` \
 
-    **加密算法**: `progpow-quai`
 
-    **錢包與礦機模板**: `%WAL%.%WORKER_NAME%`
-
-    **礦池地址**: `stratum://quai.oula.network:3333`
-
-    <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
-點擊「<mark style="color:blue;">**創建飛行表**</mark>」按鈕，飛行表添加完成
-
+    <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+* 點擊「<mark style="color:blue;">**創建飛行表**</mark>」按鈕，飛行表添加完成
 * 將添加的礦機應用于已創建的飛行表
 
 {% hint style="success" %}
-若在<mark style="color:red;">`miner.log`</mark>中見到以下相關訊息，則表示程序已成功啟動。
+若在<mark style="color:red;">`miner.log`</mark>中見到以下相關訊息，則表示程序已成功啟動。\
+
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ### 礦機監控及產出查看
 
