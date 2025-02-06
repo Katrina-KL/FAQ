@@ -32,7 +32,7 @@ Autonomys-farmer consists of [**the following components**](https://github.com/o
 
 Currently, all cluster management is based on **NATS**, but the actual data transmission for the cache is done through **TCP** for peer-to-peer (P2P) communication.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

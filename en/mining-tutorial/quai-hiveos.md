@@ -33,7 +33,7 @@ Please stay updated with [<mark style="color:blue;">**OULA's official website**<
     * Distro Base: <mark style="color:yellow;">Ubuntu 20.04.6 LTS</mark>
     * Nvidia driver: <mark style="color:yellow;">v535.171.04</mark>
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Note:** Do not use the firmware online upgrade feature. Please reinstall the new firmware and ensure that the system version is Ubuntu 20.04.
@@ -86,21 +86,20 @@ If you encounter any issues during the setup or use of HiveOS, or if you have ot
     <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 *   Click the "<mark style="color:blue;">**Setup Miner Config**</mark>" button, enter the following parameters and Click the "<mark style="color:blue;">**Apply Changes**</mark>" button to save the configurations.
 
-    * Miner Name: `oula-quai-miner`
-    * Installation URL: [`https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-vx.y.z.tar.gz`](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-vx.y.z.tar.gz)\
-      (Update the link address according to [the latest version number](https://app.gitbook.com/s/yseWjqJcypCcEst0oC22/), e.g., v1.0.0)
+    * Miner Name: <mark style="color:red;">**`oula-gpu-miner`**</mark>
+    *   Installation URL: [`https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-vX.Y.Z.tar.gz`](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.0.tar.gz)
+
+        (Update the link address according to [the latest version number](https://app.gitbook.com/s/yseWjqJcypCcEst0oC22/), e.g., v1.0.0.0)
     * Hash algorithm: `progpow-quai`
     * Wallet and worker template: `%WAL%.%WORKER_NAME%`
-    * Pool URL: `stratums://quai.oula.network:3333`\
+    * Pool URL: <mark style="color:red;">**`stratums://quai.oula.network:3333`**</mark>&#x20;
 
-
-    <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * Click the "Create Flight Sheet" button to complete the flight sheet setup.
 * Apply the added miners to the created flight sheet.
 
 {% hint style="success" %}
-If you see relevant messages in <mark style="color:red;">`miner.log`</mark>, the program has started successfully.\
-
+If you see relevant messages in <mark style="color:red;">`miner.log`</mark>, the program has started successfully.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>

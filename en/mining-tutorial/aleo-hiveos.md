@@ -38,7 +38,7 @@ Please stay updated with [<mark style="color:blue;">**OULA's official website**<
   * Distro Base: <mark style="color:yellow;">Ubuntu 20.04.6 LTS</mark>
   * Nvidia driver: <mark style="color:yellow;">v535.171.04</mark>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Note:** Do not use the firmware online upgrade feature. Please reinstall the new firmware and ensure that the system version is Ubuntu 20.04.
@@ -106,7 +106,7 @@ If you encounter any issues during the setup or use of HiveOS, or if you have ot
 If you see below relevant messages in <mark style="color:red;">`miner.log`</mark>, the program has started successfully.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Monitoring and Yield Viewing**
 
