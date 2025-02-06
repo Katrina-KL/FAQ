@@ -38,7 +38,7 @@ layout:
 
 ### 程序運行
 
-#### **Oula Pool Prover**
+#### **Oula GPU Miner**
 
 * 在Ubuntu系統中，下載並解壓縮[<mark style="color:red;">**`oula-gpu-miner`**</mark>](https://github.com/oula-network/quai/releases)
 * 設置執行程序的權限命令

@@ -91,13 +91,13 @@ layout:
     <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 *   點擊「<mark style="color:blue;">**設定挖礦軟件配置**</mark>」，輸入以下對應參數，點擊「應用更改」保存配置信息
 
-    **挖礦軟體名稱**: `oula-quai-miner`
+    **挖礦軟體名稱**: <mark style="color:red;">**`oula-gpu-miner`**</mark>
 
-    **安裝鏈接**: [`https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-vx.y.z.tar.gz`](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-quai-miner-vx.y.z.tar.gz)\
+    **安裝鏈接**: [https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-vX.Y.Z.tar.gz](https://oula-pool.oss-ap-southeast-1.aliyuncs.com/quai/Hiveos/oula-gpu-miner-v0.5.0.0.tar.gz)\
     `（根據`[`最新版本號`](https://github.com/oula-network/quai/releases)`更新鏈接地址，例如v1.0.0）`\
     **加密算法**: `progpow-quai`\
     **錢包與礦機模板**: `%WAL%.%WORKER_NAME%`\
-    **礦池地址**: `stratums://quai.oula.network:3333` \
+    **礦池地址**: <mark style="color:red;">**`stratums://quai.oula.network:3333`**</mark> \
 
 
     <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
@@ -105,8 +105,7 @@ layout:
 * 將添加的礦機應用于已創建的飛行表
 
 {% hint style="success" %}
-若在<mark style="color:red;">`miner.log`</mark>中見到以下相關訊息，則表示程序已成功啟動。\
-
+若在<mark style="color:red;">`miner.log`</mark>中見到以下相關訊息，則表示程序已成功啟動。
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
